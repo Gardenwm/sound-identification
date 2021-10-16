@@ -1,0 +1,19 @@
+.main_div{
+    background-color:darkgrey;
+    color:white;
+}
+
+.copyright_footer{
+    text-align:center;
+}
+
+body{
+    font-family: 'Noto Sans Mono', monospace;
+    background-color: grey;
+    color:white;
+}
+
+.heading_div{
+    background-color: grey;
+    color:white;
+}
