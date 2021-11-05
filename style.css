@@ -1,6 +1,6 @@
 .main_div{
-    background-color:darkgrey;
-    color:white;
+    background-color:aliceblue;
+    color:black;
 }
 
 .copyright_footer{
@@ -16,4 +16,31 @@ body{
 .heading_div{
     background-color: grey;
     color:white;
+}
+
+.heading_div p {
+    font-family:'Noto Sans Mono', monospace;
+    font-weight:bold;
+    letter-spacing: 3px;
+    font-size:16px;
+}
+
+.main_div button{
+    font-family:'Noto Sans Mono', monospace;
+    font-weight:bolder;
+    margin-top:30px;
+    width:130px;
+    letter-spacing:3px;
+}
+
+.copyright_footer{
+    background-color:lightblue;
+    color:black;
+    width:100%;
+    font-size: 60px;
+    line-height:70px;
+    text-shadow: 3px 3px 3px rgb(151, 149, 149);
+    padding-top:15px;
+    position:fixed;
+    bottom:0;
 }
