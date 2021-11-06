@@ -11,7 +11,7 @@ function modelReady(){
 var cat = 0;
 var dog = 0;
 var horse = 0;
-var tiger = 0;
+var tiger = 0; 
 
 function gotResults(error, results){
     if(error){
